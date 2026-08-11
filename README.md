@@ -150,9 +150,15 @@ Currently freelancing under the **XSUGL Dev** brand and starting **Computer Engi
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=XSUGL&theme=tokyo-night&bg_color=0D1117&color=4DD4C0&line=1F8FFF&point=FFFFFF&hide_border=true&area=true" width="98%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=XSUGL&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="98%" />
-
+<!-- Re-enable the snake ONLY after the Generate Snake workflow has run successfully
+     and the "output" branch exists with snake.svg in it:
 <img src="https://raw.githubusercontent.com/XSUGL/XSUGL/output/snake.svg" width="98%" alt="contribution snake" />
+-->
+
+<!-- Trophies: the vercel instance is rate-limited and often returns a broken image.
+     Test the URL in a browser tab first; paste back only if it loads:
+<img src="https://github-profile-trophy.vercel.app/?username=XSUGL&theme=tokyonight&no-frame=true&column=7&margin-w=8" width="98%" />
+-->
 
 </div>
 
